@@ -2,4 +2,4 @@
 - after cleaning, I did the EDA to explor data and visualize the data point to determin outliers adn skewness.
 - One hotencoder do numaries the non numerical variables i.e Furnished, unfurnised etc,
 - I used RandomForestRegressor for model development
-- I MUST SAY THIS MODEL IS NOT ACCURATE ENOUGH, I DID NOT DO MUCH OF DATA CLEANING I.E, Multicollinearity detection and removal. removin skew data point etc.
+- I MUST SAY THIS MODEL IS NOT ACCURATE ENOUGH, I DID NOT DO MUCH OF DATA CLEANING I.E, Multicollinearity detection and removal, removal of skewed data point etc.
